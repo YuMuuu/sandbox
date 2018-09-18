@@ -1,0 +1,14 @@
+test
+sbt scalastyleGenerateConfig
+scalastyleGenerateConfig
+clean coverage test coverageReport
+compile
+clean coverage test coverageReport
+exit
+scalastyleGenerateConfig
+compile
+clean coverage test coverageReport
+exit
+scalastyleGenerateConfig
+scalastyle
+exit

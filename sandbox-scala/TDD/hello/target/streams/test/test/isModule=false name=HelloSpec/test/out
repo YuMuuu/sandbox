@@ -1,0 +1,3 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mHelloSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mhello関数[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should hello関数を呼び出すとHelloという文字列を返す[0m[0m

@@ -1,0 +1,22 @@
+<scoverage 
+statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00" version="1.0" timestamp="1537295768871">
+    <packages>
+        <package name="&lt;empty&gt;" statement-count="1" statements-invoked="1" statement-rate="100.00">
+            <classes>
+                <class 
+                name="Hello" filename="Hello.scala" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/Hello/hello" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Hello" class-type="Class" full-class-name="Hello" source="/Users/miurayu/dev/sandbox/sandbox-scala/TDD/hello/src/main/scala/Hello.scala" method="hello" start="37" end="44" line="2" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>
